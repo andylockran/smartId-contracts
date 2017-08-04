@@ -11,7 +11,9 @@
     "truffle": "^3.4.7",
     "truffle-default-builder": "^2.0.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "solidity-coverage": "^0.2.1"
+  },
   "scripts": {
     "test": "./node_modules/.bin/truffle test"
   },
